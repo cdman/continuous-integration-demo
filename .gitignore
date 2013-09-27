@@ -81,6 +81,9 @@ publish
 # NuGet Packages Directory
 packages
 
+# Sonar analysis files
+.sonar
+
 # Windows Azure Build Output
 csx
 *.build.csdef
