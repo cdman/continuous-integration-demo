@@ -1,5 +1,4 @@
 sonar.projectKey=com.example:continuous-integration-demo
-sonar.projectVersion=0.1
 sonar.projectName=Continuous Integration Demo Project
 
 sonar.sources=.
@@ -11,3 +10,4 @@ sonar.host.url=http://172.16.254.2/sonar/
 sonar.jdbc.url=jdbc:h2:tcp://172.16.254.2:9092/sonar
 
 sonar.fxcop.mode=skip
+
