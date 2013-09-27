@@ -10,7 +10,7 @@ namespace CDDemo.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Hello World!";
+            ViewBag.Message = "Oh, cruel world!";
 
             return View();
         }
